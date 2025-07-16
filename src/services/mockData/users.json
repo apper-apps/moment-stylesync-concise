@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "name": "Demo User",
+    "email": "demo@stylesync.com",
+    "password": "demo123",
+    "avatar": null,
+    "createdAt": "2024-01-15T10:00:00Z",
+    "preferences": {
+      "style": "casual",
+      "colors": ["black", "white", "blue"],
+      "brands": ["Nike", "Adidas", "Zara"]
+    }
+  },
+  {
+    "Id": 2,
+    "name": "Emma Johnson",
+    "email": "emma@example.com",
+    "password": "password123",
+    "avatar": null,
+    "createdAt": "2024-01-20T14:30:00Z",
+    "preferences": {
+      "style": "formal",
+      "colors": ["navy", "gray", "cream"],
+      "brands": ["Hugo Boss", "Calvin Klein", "Banana Republic"]
+    }
+  },
+  {
+    "Id": 3,
+    "name": "Alex Chen",
+    "email": "alex@example.com",
+    "password": "mypassword456",
+    "avatar": null,
+    "createdAt": "2024-02-01T09:15:00Z",
+    "preferences": {
+      "style": "streetwear",
+      "colors": ["black", "red", "green"],
+      "brands": ["Supreme", "Off-White", "Balenciaga"]
+    }
+  },
+  {
+    "Id": 4,
+    "name": "Sarah Williams",
+    "email": "sarah@example.com",
+    "password": "secure789",
+    "avatar": null,
+    "createdAt": "2024-02-10T16:45:00Z",
+    "preferences": {
+      "style": "bohemian",
+      "colors": ["earth tones", "purple", "orange"],
+      "brands": ["Free People", "Anthropologie", "Urban Outfitters"]
+    }
+  },
+  {
+    "Id": 5,
+    "name": "Michael Rodriguez",
+    "email": "michael@example.com",
+    "password": "password2024",
+    "avatar": null,
+    "createdAt": "2024-02-15T11:20:00Z",
+    "preferences": {
+      "style": "minimalist",
+      "colors": ["white", "black", "gray"],
+      "brands": ["Uniqlo", "Muji", "COS"]
+    }
+  }
+]

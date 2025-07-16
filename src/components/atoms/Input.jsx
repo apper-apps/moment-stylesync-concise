@@ -13,7 +13,6 @@ const Input = forwardRef(({
   const stateStyles = error
     ? "border-error focus:border-error focus:ring-error/50"
     : "border-gray-200 focus:border-accent focus:ring-accent/50 hover:border-gray-300";
-  
   return (
     <div className="space-y-2">
       {label && (

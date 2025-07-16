@@ -12,14 +12,14 @@ const Button = forwardRef(({
 }, ref) => {
   const baseStyles = "inline-flex items-center justify-center font-medium transition-all duration-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed";
   
-  const variants = {
+const variants = {
     primary: "bg-gradient-to-r from-accent to-accent/90 hover:from-accent/90 hover:to-accent/80 text-white shadow-lg hover:shadow-xl focus:ring-accent/50",
     secondary: "bg-white border-2 border-gray-200 hover:border-accent/50 text-primary hover:bg-accent/5 focus:ring-accent/50",
     outline: "border-2 border-accent text-accent hover:bg-accent hover:text-white focus:ring-accent/50",
     ghost: "text-gray-600 hover:text-accent hover:bg-accent/5 focus:ring-accent/50",
-    danger: "bg-gradient-to-r from-error to-error/90 hover:from-error/90 hover:to-error/80 text-white shadow-lg hover:shadow-xl focus:ring-error/50"
+    danger: "bg-gradient-to-r from-error to-error/90 hover:from-error/90 hover:to-error/80 text-white shadow-lg hover:shadow-xl focus:ring-error/50",
+    auth: "bg-gradient-to-r from-info to-info/90 hover:from-info/90 hover:to-info/80 text-white shadow-lg hover:shadow-xl focus:ring-info/50"
   };
-  
   const sizes = {
     sm: "px-4 py-2 text-sm",
     md: "px-6 py-3 text-base",

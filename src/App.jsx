@@ -5,11 +5,14 @@ import ClosetPage from "@/components/pages/ClosetPage";
 import TodaysLookPage from "@/components/pages/TodaysLookPage";
 import TrendsPage from "@/components/pages/TrendsPage";
 import AddItemPage from "@/components/pages/AddItemPage";
-
+import LoginPage from "@/components/pages/LoginPage";
+import SignupPage from "@/components/pages/SignupPage";
 function App() {
   return (
     <div className="min-h-screen bg-background">
-      <Routes>
+<Routes>
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/signup" element={<SignupPage />} />
         <Route path="/" element={<Layout />}>
           <Route index element={<TodaysLookPage />} />
           <Route path="/closet" element={<ClosetPage />} />
