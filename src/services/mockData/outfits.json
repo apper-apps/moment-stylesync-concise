@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "items": [1, 2, 3, 5],
+    "date": "2024-01-20T09:00:00Z",
+    "occasion": "work",
+    "weather": "cool",
+    "rating": 5,
+    "isFavorite": true
+  },
+  {
+    "Id": 2,
+    "items": [6, 8, 10],
+    "date": "2024-01-19T14:00:00Z",
+    "occasion": "casual",
+    "weather": "warm",
+    "rating": 4,
+    "isFavorite": false
+  },
+  {
+    "Id": 3,
+    "items": [4, 12, 3, 5],
+    "date": "2024-01-18T18:00:00Z",
+    "occasion": "date",
+    "weather": "mild",
+    "rating": 5,
+    "isFavorite": true
+  },
+  {
+    "Id": 4,
+    "items": [11, 2, 8],
+    "date": "2024-01-17T10:00:00Z",
+    "occasion": "weekend",
+    "weather": "mild",
+    "rating": 3,
+    "isFavorite": false
+  },
+  {
+    "Id": 5,
+    "items": [1, 12, 3, 9],
+    "date": "2024-01-16T08:30:00Z",
+    "occasion": "work",
+    "weather": "cold",
+    "rating": 4,
+    "isFavorite": false
+  }
+]
