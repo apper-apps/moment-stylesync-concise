@@ -24,12 +24,12 @@
     "occasions": ["casual", "weekend", "date"]
   },
   {
-    "Id": 3,
+"Id": 3,
     "name": "Black Leather Boots",
     "category": "shoes",
     "color": "black",
     "style": ["edgy", "classic", "comfortable"],
-    "imageUrl": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=400&fit=crop",
+    "imageUrl": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=400&h=400&fit=crop",
     "wearCount": 6,
     "lastWorn": "2024-01-20T09:15:00Z",
     "season": ["fall", "winter"],
@@ -72,12 +72,12 @@
     "occasions": ["casual", "date", "weekend"]
   },
   {
-    "Id": 7,
+"Id": 7,
     "name": "Wool Coat",
     "category": "outerwear",
     "color": "navy",
     "style": ["classic", "formal", "warm"],
-    "imageUrl": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=400&fit=crop",
+    "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=400&fit=crop",
     "wearCount": 5,
     "lastWorn": "2024-01-16T08:00:00Z",
     "season": ["fall", "winter"],
@@ -120,12 +120,12 @@
     "occasions": ["formal", "special", "date"]
   },
   {
-    "Id": 11,
+"Id": 11,
     "name": "Striped T-Shirt",
     "category": "tops",
     "color": "navy/white",
     "style": ["casual", "classic", "comfortable"],
-    "imageUrl": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=400&fit=crop",
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
     "wearCount": 10,
     "lastWorn": "2024-01-14T15:20:00Z",
     "season": ["spring", "summer", "fall"],
